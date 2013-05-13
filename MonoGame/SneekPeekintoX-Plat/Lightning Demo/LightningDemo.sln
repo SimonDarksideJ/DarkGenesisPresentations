@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LightningDemo", "LightningDemo\LightningDemo\LightningDemo.csproj", "{E2495767-D4F6-49CE-ABE8-5F4544F99EFD}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LightningDemoContent", "LightningDemo\LightningDemoContent\LightningDemoContent.contentproj", "{3EE34C52-2E2D-4CF0-A79E-EF13BC2BAA3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2495767-D4F6-49CE-ABE8-5F4544F99EFD}.Debug|x86.ActiveCfg = Debug|x86
+		{E2495767-D4F6-49CE-ABE8-5F4544F99EFD}.Debug|x86.Build.0 = Debug|x86
+		{E2495767-D4F6-49CE-ABE8-5F4544F99EFD}.Release|x86.ActiveCfg = Release|x86
+		{E2495767-D4F6-49CE-ABE8-5F4544F99EFD}.Release|x86.Build.0 = Release|x86
+		{3EE34C52-2E2D-4CF0-A79E-EF13BC2BAA3A}.Debug|x86.ActiveCfg = Debug|x86
+		{3EE34C52-2E2D-4CF0-A79E-EF13BC2BAA3A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
