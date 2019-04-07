@@ -11,6 +11,7 @@ Title | Description | Presentation | Video | Sample
 Mixed Reality Toolkit - Quick-start | A short introduction to the Mixed Reality Toolkit,showing you just how easy it is to get started with the project and begin crafting awesome Mixed Reality projects on OpenVR and WMR | [Link](https://www.slideshare.net/SimonJackson58/mixed-reality-toolkit-quickstart) | [Link](https://www.youtube.com/watch?v=-ODnfcv5Rzg) | N/A
 Mixed Reality Toolkit Configuration Guide | A quick run through the configuration system behind the Mixed Reality Toolkit and how to configure it for your projects needs. | [Link](https://www.slideshare.net/SimonJackson58/mixed-reality-toolkit-introduction-to-configuration) | [Link](https://www.youtube.com/watch?v=B3hJC1CNM1o) | N/A
 Mixed Reality Toolkit Controller Guide | In this session we'll walk-though the hot topic on most developers minds when they start using the MRTK in earnest, how to change the controller models. | [Link](https://www.slideshare.net/SimonJackson58/mixed-reality-toolkit-controller-model-replacement) | [Link](https://www.youtube.com/watch?v=F3e2lwqVPyc) | N/A
+Mixed Reality Toolkit Input Actions Guide | This session walks-through the Input Actions and their relationship to physical input, configuring actions in our project and mapping them to controllers, as well as a small intro to Input Action Rules and consuming input in a scene. | [Link](https://www.slideshare.net/SimonJackson58/mixed-reality-toolkit-input-actions-guide) | [Link](https://www.youtube.com/watch?v=VLvCOJbF9h0) | N/A
 
 
 # MonoGame
